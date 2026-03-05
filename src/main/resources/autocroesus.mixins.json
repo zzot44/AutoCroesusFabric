@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "acmod.autocroesus.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "HandledScreenAccessor"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

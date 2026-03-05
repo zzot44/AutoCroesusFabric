@@ -1,4 +1,6 @@
-﻿# AutoCroesus (Fabric 1.21.11)
+# AutoCroesus (Fabric 1.21.11)
+
+![Downloads](https://img.shields.io/github/downloads/zzot44/AutoCroesusFabric/total)
 
 A Fabric client mod that auto-loots Croesus dungeon chests based on profit.
 
@@ -109,6 +111,7 @@ Build output:
 
 ## Safety / Risk
 This mod automates GUI interactions. Use at your own risk on multiplayer servers.
+
 
 
 

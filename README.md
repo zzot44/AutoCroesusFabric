@@ -109,8 +109,3 @@ Build output:
 ## Safety / Risk
 This mod automates GUI interactions. Use at your own risk on multiplayer servers.
 
-## Troubleshooting
-- "Failed to parse chest info": run `/ac api`, then try again.
-- No command suggestions: make sure Fabric API is loaded correctly.
-- Doesn't click final confirm: update to latest release from this repo.
-- Weird state: `/ac reset` and reopen Croesus.

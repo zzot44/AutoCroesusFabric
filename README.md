@@ -6,7 +6,7 @@ This is a port/rebuild of the original AutoCroesus idea for ChatTriggers.
 
 ## Credits
 - **Original concept + core logic inspiration:** **UnclaimedBloom6**
-- **Fabric port + maintenance:** this repo
+- **Fabric port + maintenance:** this repo (zzot on dc for bugs or suggestions write me dm) 
 
 Without UnclaimedBloom6 this mod would not exist in this form.
 
@@ -108,4 +108,5 @@ Build output:
 
 ## Safety / Risk
 This mod automates GUI interactions. Use at your own risk on multiplayer servers.
+
 
